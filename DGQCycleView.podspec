@@ -16,16 +16,15 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DGQCycleView"
-  spec.version      = "0.1.0"
-  spec.summary      = "A short description of DGQCycleView."
+  spec.version      = "0.1.1"
+  spec.summary      = "简单易用的图片无限轮播器."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC
-                   DESC
+  spec.description  = "简单易用的图片无限轮播器..."
 
   spec.homepage     = "https://github.com/denggaoqiang/CustomView"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
